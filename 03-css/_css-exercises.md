@@ -1,11 +1,11 @@
 # CSS Exercises
 
-- [Exercise 01 - Selectors](#ex01)
-- [Exercise 02 - Pseudo](#ex02)
-- [Exercise 03 - Specificity](#ex03)
-- [Exercise 04 - Layout](#ex04)
-- [Exercise 05 - Position](#ex05)
-- [Exercise 06 - Media Queries](#ex06)
+- [x] [Exercise 01 - Selectors](#ex01)
+- [x] [Exercise 02 - Pseudo](#ex02)
+- [x] [Exercise 03 - Specificity](#ex03)
+- [x] [Exercise 04 - Layout](#ex04)
+- [x] [Exercise 05 - Position](#ex05)
+- [x] [Exercise 06 - Media Queries](#ex06)
 
 ## <a id="ex01"></a> Exercise 01 - Selectors
 
@@ -36,7 +36,7 @@ input[type] {
 section .main::first-line {
 }
 
-nav ul.menu li#first a:not([class='visited']) {
+nav ul.menu li#first a:not([class="visited"]) {
 }
 
 div ol li ul li ol li ul li a {
