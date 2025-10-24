@@ -1,9 +1,9 @@
 # HTML Exercises
 
-- [Exercise 01 - Lists](#ex01)
-- [Exercise 02 - Images](#ex02)
-- [Exercise 03 - Table](#ex03)
-- [Exercise 04 - Form](#ex04)
+- [x] [Exercise 01 - Lists](#ex01)
+- [x] [Exercise 02 - Images](#ex02)
+- [x] [Exercise 03 - Table](#ex03)
+- [x] [Exercise 04 - Form](#ex04)
 
 ## <a id="ex01"></a> Exercise 01 - Lists X
 
