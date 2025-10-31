@@ -1,13 +1,13 @@
 # Bootstrap Exercises
 
-- [Exercise 01 - Cards](#ex01)
-- [Exercise 02 - Grid](#ex02)
-- [Exercise 03 - Grid](#ex03)
-- [Exercise 04 - Modal](#ex04)
+- [x] [Exercise 01 - Cards](#ex01)
+- [x] [Exercise 02 - Grid](#ex02)
+- [x] [Exercise 03 - Grid](#ex03)
+- [x] [Exercise 04 - Modal](#ex04)
 
 ## <a id="ex01"></a> Exercise 01 - Cards
 
-Recreate the layout below using Boostrap card classes. 
+Recreate the layout below using Boostrap card classes.
 
 <kbd><img src="../_assets/bootstrap-exercises/bootstrap-ex01-cards.png" height=200 alt="screenshot of a card layout"></kbd>
 

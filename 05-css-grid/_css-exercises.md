@@ -1,11 +1,11 @@
 # CSS Grid Exercises
 
-- [Exercise 01 - CSS Grid](#ex01)
-- [Exercise 02 - CSS Grid Areas](#ex02)
+- [x] [Exercise 01 - CSS Grid](#ex01)
+- [x] [Exercise 02 - CSS Grid Areas](#ex02)
 
 ## <a id="ex01"></a> Exercise 01 - CSS Grid
 
-Recreate the following layouts using CSS Grid. 
+Recreate the following layouts using CSS Grid.
 
 <kbd><img src="../_assets/css-exercises/css-ex08-grid-01.png" height=200 alt="screenshot of a layout"></kbd>
 <kbd><img src="../_assets/css-exercises/css-ex08-grid-02.png" height=200 alt="screenshot of a layout"></kbd>
@@ -19,5 +19,3 @@ Recreate the following layouts using CSS Grid and grid areas. The three screensh
 <kbd><img src="../_assets/css-exercises/css-ex09-grid-areas-03.png" height=200 alt="screenshot of a layout"></kbd>
 <kbd><img src="../_assets/css-exercises/css-ex09-grid-areas-02.png" height=200 alt="screenshot of a layout"></kbd>
 <kbd><img src="../_assets/css-exercises/css-ex09-grid-areas-01.png" height=200 alt="screenshot of a layout"></kbd>
-
-
